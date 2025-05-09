@@ -1,7 +1,7 @@
 # Instructor Demo: CI/CD Using GitHub Actions
 
 In this guide, we will explore how applications are constantly updated and released to the public smoothly and seamlessly: we will revisit GitHub Actions to set up automated continuous deployment of an application to Render. **Continuous deployment (CD)** describes the automated process by which new features and bug fixes are delivered to end users.
-
+new changes
 CD often accompanies **continuous integration (CI)**, which describes when developers merge all their existing copies of code into a shared branch several times a day. As changes to a repository compound on each other, developers encounter more complications when submitting their work. The **CI/CD pipeline**, then, keeps the codebase up to date and evolving with the developers that work on it.
 
 Although this particular guide covers continuous deployment with Render, you can use the same process for other platforms, such as Netlify, Vercel, and many others. There is no shortage of cloud providers that you can choose from to deploy your applications -- and because technologies are constantly emerging and evolving, developers need to be well-rounded and adaptable to new platforms.
